@@ -1,0 +1,335 @@
+@charset "utf-8";
+/* CSS Document */
+
+.unidadName {
+	background-image: url(images/plantilla_r1_c1.jpg);
+	line-height: 90%;
+	background-repeat: no-repeat;
+	margin: 0px;	
+}
+.subTituloTema {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+	font-weight: bold;
+	color: #000;
+	background-image: url(images/plantilla_r2_c1.jpg);
+	padding-left: 25px;
+	background-repeat: no-repeat;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+}
+#modImpresion a{
+	text-decoration: none;
+	background-image: url(images/impresoras.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;
+	display: block;
+	height: 40px;
+}
+
+#modImpresion a:hover {
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+
+
+.unidadGris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #88A381;
+	padding-left: 0px;
+}
+
+
+
+.noUnidad {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #88A381;
+	padding-left: 0px;
+}
+.nombreUnidad {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #823717;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	
+	
+	background-image: url(images/plantilla_r1_c1.jpg);
+	line-height: 90%;
+	background-repeat: no-repeat;
+	margin: 0px;
+}
+.contenidoGralBox {
+	padding-left: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #000;
+	font-weight: normal;
+	width: 630px;
+	height: 382px;
+!important
+; 			text-align: left;
+	padding-right: 20px;
+}
+.instrucciones {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+	background-image: url(images/plantilla_r5_c1.jpg);
+	padding-left: 42px;
+	background-repeat: no-repeat;
+}
+#botonRegresar a{
+	text-decoration: none;
+	background-image: url(images/botizq_1.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;
+	display: block;
+	height: 37px;
+	
+}
+
+#botonRegresar a:hover {
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+#botonRegresarOff {
+	text-decoration: none;
+	background-image: url(images/botIzqOff.jpg);
+	background-repeat: no-repeat;
+	height: 37px;
+	
+}
+
+.paginador {
+	background-image: url(images/plantilla_r5_c3.jpg);
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #FFF;
+	font-size: 7pt;
+	text-align: center;
+	padding-left: 0px;
+	background-repeat: no-repeat;
+}
+#botonAvanzar a{
+	text-decoration: none;
+	background-image: url(images/botDer_1.jpg);
+	background-position: left top;
+	background-repeat: no-repeat;
+	display: block;
+	height: 37px;
+	
+}
+#botonAvanzar a:hover {
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+#botonAvanzarOff {
+	text-decoration: none;
+	background-image: url(images/botDerOff.jpg);
+	background-repeat: no-repeat;
+	height: 37px;
+	
+}
+.bullets {
+	list-style-image: url(images/bullet_pres.jpg);
+}
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #09C;
+	text-decoration: underline;
+}
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #666;
+	text-decoration: underline;
+}
+.subSubtitulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+	color: #000;
+}
+.pieDeFoto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: normal;
+	color: #000;
+	text-align: left;
+	padding-top: 3px;
+}
+#referencias a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	background-color: #77477B;
+	margin: 3px;
+	padding: 3px;
+}
+
+#referencias a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: 77477B;
+	text-decoration: none;
+	background-color: #77477B;
+}
+
+#referencias a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: 77477B;
+	text-decoration: none;
+	background-color: #69F;
+}
+.cpoFont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #000;
+}
+.frasesFont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	color: #78457D;
+	font-weight: normal;
+	background-color: #F5F4F0;
+	padding-top: 35px;
+	padding-right: 35px;
+	padding-bottom: 35px;
+	padding-left: 35px;
+}
+.textos_1 {
+	background-color: #EEE;
+	margin: 0px;
+	padding-top: 3px;
+	padding-right: 8px;
+	padding-bottom: 3px;
+	padding-left: 8px;
+}
+.color1 {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #EBFF9B;
+	padding-left: 5px;
+}
+.color2 {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #C5E6E9;
+	padding-left: 5px;
+}
+.color3 {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #C5E6E9;
+	padding-left: 5px;
+	width: 500px;
+}
+
+.noMargenNoPadding {
+	margin: 0px;
+	padding: 0px;
+	height: 37px;
+	display: block;
+}
+
+.actiFdo {
+	padding: 15px;
+	width: 640px;
+	background-color: #D6D94E;
+}
+
+#asterisco a {
+	text-decoration: none;
+	background-image: url(images/iconoReferencia_mini.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#asterisco a:link {
+	text-decoration: none;
+	background-image: url(images/iconoReferencia_mini.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#asterisco a:hover {
+	text-decoration: none;
+	background-image: url(images/iconoReferencia_mini.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+
+#textoGral {
+	text-decoration: none;
+	width: 660px;
+	overflow: visible;
+	font-style: normal;
+	height: 300px;
+}
+
+
+.pdf {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+	background-image: url(images/pdfIcono.jpg);
+	padding-left: 42px;
+	background-repeat: no-repeat;
+	overflow: visible;
+}
+.tablas {
+	color: #ffffff;
+	border-right-width: thin;
+	border-right-style: solid;
+	border-right-color: #000;
+}
+.listas {
+	list-style-type: disc;
+	line-height: 10px;
+	text-transform: uppercase;
+	text-align: left;
+}
+
+td {
+	text-align: left;
+	
+}
+
+.accesible {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+	background-image: url(images/accesible.jpg);
+	background-repeat: no-repeat;
+	text-align: left;
+	background-position: left 0px;
+	padding-left: 40px;
+	padding-top: 10px;
+	height: 40px;
+}
+.contenidoGralBox table tr td ul li {
+	list-style-type: disc;
+	line-height: 20px;
+}
+.textoennueve {
+	font-size: 9pt;
+}
